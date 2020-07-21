@@ -13,7 +13,7 @@ def list_dwarves(array)
   # Print a numbered list of each element
   hash = Hash.new
   array.each_with_index {|element, index| 
-   p hash[element] = index + 1
+   p hash[element] = index
   }
 end
 hash
