@@ -18,3 +18,4 @@ def list_dwarves(array)
 end
 hash
 end
+end
