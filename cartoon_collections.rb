@@ -16,5 +16,4 @@ def list_dwarves(array)
    p index + 1 = hash[element]
   }
 
-hash
 end
