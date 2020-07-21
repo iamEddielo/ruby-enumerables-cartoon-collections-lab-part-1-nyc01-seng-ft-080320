@@ -15,7 +15,6 @@ def list_dwarves(array)
   array.each_with_index {|element, index| 
    p hash[element] = index
   }
-end
+
 hash
-end
 end
